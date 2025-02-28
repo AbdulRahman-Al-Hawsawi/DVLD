@@ -1,0 +1,7 @@
+C:\Users\AD\vs project files\DVLD_First\DVLD_Business\bin\Debug\DVLD_Business.dll
+C:\Users\AD\vs project files\DVLD_First\DVLD_Business\bin\Debug\DVLD_Business.pdb
+C:\Users\AD\vs project files\DVLD_First\DVLD_Business\bin\Debug\DVLD_DataAccess.dll
+C:\Users\AD\vs project files\DVLD_First\DVLD_Business\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\AD\vs project files\DVLD_First\DVLD_Business\obj\Debug\DVLD_Business.csprojResolveAssemblyReference.cache
+C:\Users\AD\vs project files\DVLD_First\DVLD_Business\obj\Debug\DVLD_Business.dll
+C:\Users\AD\vs project files\DVLD_First\DVLD_Business\obj\Debug\DVLD_Business.pdb

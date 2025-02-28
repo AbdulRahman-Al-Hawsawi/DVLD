@@ -1,0 +1,6 @@
+C:\Users\AD\vs project files\DVLD_First\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.dll
+C:\Users\AD\vs project files\DVLD_First\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\AD\vs project files\DVLD_First\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.dll
+C:\Users\AD\vs project files\DVLD_First\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.pdb
+C:\Users\AD\vs project files\DVLD_First\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\AD\vs project files\DVLD_First\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.dll.config
